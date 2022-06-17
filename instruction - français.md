@@ -8,7 +8,7 @@ Instruction en **Français** !
 
 <h1 align="center">Etape 2</h1>
 <div align="center">
-  <p>Installer le Elsify <b>Collection Changer</b> et mettais les skins que vous voulez.>
+  <p>Installer le <b>[Elsify Collection Changer](https://frostchanger.de/valorant)</b> et mettais les skins que vous voulez.</p>
 </div>
 
 <h1 align="center">Etape 3</h1>
