@@ -13,8 +13,17 @@ Instruction en **Français** !
 
 <h1 align="center">Etape 3</h1>
 <div align="center">
-  <p>Faites une capture d'écrans de votre casier et ouvrez <b>Paint</b></p>
-  <p>Puis rajouter les points blancs dans les croix en dessous des skins</p>
+  <p>Faites une capture d'écrans de votre casier et ouvrez <b>Paint</b>.</p>
+  <p>Puis rajouter les points blancs dans les croix en dessous des skins.</p>
+</div>
+
+<h1 align="center">Etape Finale</h1>
+<div align="center">
+  <p>Chercher des gens à qui vendre le compte (TikTok, Discord) et leur vendre le compte pour ~15 EUR.</p>
+  <p>/!\ Demander les 15 EUR avant que vous envoyer le compte sinon 10 EUR avant d'envoyer le compte puis vous bloquez et partez avec les 10 EUR.</p>
+  <br>
+  <br>
+  <p>N.B: Vous pouvez créer un compte Valorant avec une adresse mail créer au moment de l'arnaque et lui envoyer le faux compte.</p>
 </div>
 
 <h1 align="center">Résultat</h1>
