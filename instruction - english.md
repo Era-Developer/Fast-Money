@@ -23,7 +23,7 @@ Instruction in **English** !
   <p>/!\ Ask for the 15 EUR before you send the account, otherwise 10 EUR before sending the account then you block and leave with the 10 EUR.</p>
   <br>
   <br>
-  <p>N.B: You can create a Valorant account with an email address created at the time of the scam and send him the fake account.</p>
+  <p>P.S: You can create a Valorant account with an email address created at the time of the scam and send him the fake account.</p>
 </div>
 
 <h1 align="center">Results</h1>
