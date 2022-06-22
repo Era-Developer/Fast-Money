@@ -1,23 +1,23 @@
 
 Instruction en **Français** !
 
-<h1 align="center">Etape 1</h1>
+<h1 align="center">Étape 1</h1>
 <div align="center">
   <p>Prendre votre compte principal (pour afficher le niveau du compte).</p>
 </div>
 
-<h1 align="center">Etape 2</h1>
+<h1 align="center">Étape 2</h1>
 <div align="center">
   <p>Installer le <b><a href="https://frostchanger.de/valorant">Elsify Collection Changer</a></b> et mettais les skins que vous voulez.</p>
 </div>
 
-<h1 align="center">Etape 3</h1>
+<h1 align="center">Étape 3</h1>
 <div align="center">
   <p>Faites une capture d'écrans de votre casier et ouvrez <b>Paint</b>.</p>
-  <p>Puis rajouter les points blancs dans les croix en dessous des skins.</p>
+  <p>Puis ajouter les points blancs dans les croix en dessous des skins.</p>
 </div>
 
-<h1 align="center">Etape Finale</h1>
+<h1 align="center">Étape Finale</h1>
 <div align="center">
   <p>Chercher des gens à qui vendre le compte (TikTok, Discord) et leur vendre le compte pour ~15 EUR.</p>
   <p>/!\ Demander les 15 EUR avant que vous envoyer le compte sinon 10 EUR avant d'envoyer le compte puis vous bloquez et partez avec les 10 EUR.</p>
